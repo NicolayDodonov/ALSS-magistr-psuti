@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-const path = "logs/stat.log"
+const path = "logs/stat.logs"
 
 type Statistic struct {
 	AgentStat    `json:"agent"`

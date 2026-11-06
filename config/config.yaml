@@ -20,5 +20,5 @@ ALSS:
     birthCost: 250
     mutationCount: 1
 Logger:
-  path: "logs/app.log"
+  path: "log/app.log"
   level: "Info"
